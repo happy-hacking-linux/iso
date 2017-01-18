@@ -1,2 +1,4 @@
 *~
 archiso-*.tar.gz*
+/work
+/out
