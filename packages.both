@@ -67,3 +67,4 @@ zd1211-firmware
 broadcom-wl-dkms
 dkms
 linux-headers
+networkmanager
