@@ -68,3 +68,4 @@ broadcom-wl-dkms
 dkms
 linux-headers
 networkmanager
+reflector
