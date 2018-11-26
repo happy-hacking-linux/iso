@@ -2,10 +2,10 @@
 
 set -e -u
 
-iso_name=archlinux
-iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Arch Linux <http://www.archlinux.org>"
-iso_application="Arch Linux Live/Rescue CD"
+iso_name=happyhackinglinux
+iso_label="HAPPY_HACKING_$(date +%Y%m)"
+iso_publisher="Happy Hacking Linux <http://www.archlinux.org>"
+iso_application="Happy Hacking Linux Live/Rescue CD"
 iso_version=$(date +%Y.%m.%d)
 install_dir=arch
 work_dir=work
