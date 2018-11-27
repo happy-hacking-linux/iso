@@ -1,0 +1,9 @@
+[Unit]
+Description=Installation Wizard
+
+[Service]
+Type=oneshot
+ExecStart=/root/autorun.sh
+
+[Install]
+WantedBy=default.target
