@@ -63,8 +63,6 @@ wireless_tools
 wpa_actiond
 wvdial
 xl2tpd
-zd1211-firmware
-broadcom-wl-dkms
 dkms
 linux-headers
 networkmanager
