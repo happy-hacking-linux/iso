@@ -1,9 +1,0 @@
-[Unit]
-Description=Installation Wizard
-
-[Service]
-Type=idle
-ExecStart=/root/autorun.sh
-
-[Install]
-WantedBy=default.target
