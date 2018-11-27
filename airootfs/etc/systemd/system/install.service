@@ -2,7 +2,7 @@
 Description=Installation Wizard
 
 [Service]
-Type=oneshot
+Type=idle
 ExecStart=/root/autorun.sh
 
 [Install]
